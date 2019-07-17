@@ -67,7 +67,7 @@
 
 ---
 
-- **何ならこんな感じのスライドですら Markdown で作れる:v: （Qiita）**
+- 何ならこんな感じのスライドですら Markdown で作れる ✌️ （Qiita）
 <img width="100%" alt="Qiita スライドでまとめた" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/236385/c0804c06-c377-ec6f-0e75-b7b9b301f1b0.png">
 
 ---
